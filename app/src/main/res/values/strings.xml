@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recipe Finder</string>
+    <string name="home">Home</string>
+    <string name="explore">Explore</string>
+    <string name="favourite">Favourite</string>
+    <string name="meal_detail">Meal Detail</string>
+</resources>
